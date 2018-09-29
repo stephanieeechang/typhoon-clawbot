@@ -1,2 +1,2 @@
-# typhoon-clawbot
-
+# Typhoon Claw Robot
+In light of the Design Thinking process and hands-on experiences that are critical in shaping students’ project learning, critical thinking, and team building skills, the Typhoon Claw Robotics Team designed, programmed and built the Typhoon Claw Robot for the 2017-2018 Asia Open VEX Robotics Competition. Typhoon Claw Robot is incorporated a collapsible platform, scissor lift, expandable arm, continuous tracks, and a main claw. Controlled by a joystick, the Robot can pick up objects in a wide height range.
